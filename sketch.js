@@ -64,10 +64,9 @@ function draw(){
     box14.display();
     box15.display();
     fill("yellow");
-    text("PRESS SPACE TO REATTACH THE BALL :)",200,100);
+    text("PRESS SPACE TO REATTACH THE BALL :             by Manas)",200,100);
     sling.display(); 
-    fill("yellow");
-    text(" by manas)",200,200);
+   
     
 
      
