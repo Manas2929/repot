@@ -66,6 +66,9 @@ function draw(){
     fill("yellow");
     text("PRESS SPACE TO REATTACH THE BALL :)",200,100);
     sling.display(); 
+    fill("yellow");
+    text(" by manas)",1200,500);
+    
 
      
 
